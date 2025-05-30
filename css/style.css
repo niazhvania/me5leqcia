@@ -1,0 +1,187 @@
+.navlink{
+    font-size: 24px;
+    font-weight: 700;
+    color: #8D81FF;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 84px;
+}
+ 
+.active{
+    font-size: 24px;
+    font-weight: 700;
+    color: #4E6FAE;
+
+}
+.facebook{
+    width: 50px;
+    margin-left: 52px;
+    margin-right: 41px;
+
+}
+.youtube{
+    width: 71px;
+    margin-left: 41px;
+}
+.line {
+  display: inline-block;
+  width: 2px;
+  height: 48px;
+  background-color: #5012d5;
+}
+.line2{
+  display: inline-block;
+  width: 2px;
+  height: 24px;
+  background-color: #5012d5;
+}
+
+.ricxvi{
+    font-size: 24px;
+    color: #84FF81;
+    background-color: #5012D5;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:18px;
+}
+.tve{
+    font-size: 24px;
+    color: #8D81FF;
+    margin-bottom: 8px;
+}
+.satauri{
+    font-size: 20px;
+    color: #4E6FAE;
+    font-weight: 700;
+    margin-bottom: 13px;
+}
+.tema{
+    font-size: 16px;
+    color: #4E6FAE;
+    width: 778px;
+}
+.kontaqt-head{
+    font-size:36px ;
+    color:#4E6FAE ;
+    font-weight:700 ;
+
+}
+.info-tipi{
+    font-size: 20px;
+    color: #7E8898;
+}
+.info{
+    font-size: 20px;
+    color: #3F4145;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 54px 60px 52px 52px;
+}
+.header{
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+}
+.article-img{
+    display: inline-block;
+    margin: 0px 66px 155px 52px;
+}
+.article{
+    vertical-align: middle;
+    display: flex;
+    align-items: start;
+}
+.abzaci{
+    margin-top: 16px;
+}
+.art-top{
+    
+    margin-left: 52px;
+}
+.article-img2{
+    margin: 14px 52px 32px;
+
+}
+.tema2{
+    margin-left: 52px;
+    width: 1021px;
+    font-size: 16px;
+    color: #4E6FAE;
+    margin-bottom: 145px;
+}
+.html-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
+.siaxleebi{
+    color: #4E6FAE;
+    font-size: 26px;
+    margin-left: 194px;
+    margin-right: 18px;
+    font-weight: 700;
+
+}
+.align-center{
+    display: flex;
+    align-items: center;
+}
+.yvela{
+    color: #4E6FAE;
+    font-size: 26px;
+    margin-left: 17px;
+}
+.gray-ujra{
+    background-color: #E7E7E7;
+    width: 500px;
+    height: 192px;
+    padding: 20px 15px 32px 23px;
+    margin-left: 194px;
+    margin-top: 20px;
+    margin-bottom: 93px;
+    box-sizing: border-box;
+    
+    
+}
+.gray-ujra img{
+    margin: 0px 37px 0px 36px;
+
+}
+.gray-ujra h1{
+    font-size: 20px;
+    color: #3F4145;
+    margin-bottom: 20px;
+    margin-left: 23px;
+}
+.gray-ujra p{
+    width: 335px;
+    color: #7E8898;
+    font-size: 16px;
+}
+.me2{
+    margin-left: 52px;
+}
+.container{
+    display: flex;
+    box-sizing: border-box;
+    height: 735px;
+    background-color: #E7E7E7;
+    padding: 93px 40px 92px 162px;
+    margin-bottom: 106px;
+
+}
+.container img{
+    width: 944px;
+}
+.container h1{
+    margin-bottom: 27px;
+}
+.container li{
+    margin-bottom: 24px;
+}
